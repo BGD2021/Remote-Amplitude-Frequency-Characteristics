@@ -1,0 +1,1 @@
+../Drivers/ESP8266/callback.cpp:5:17:void USART6_IRQHandler()	8	static
